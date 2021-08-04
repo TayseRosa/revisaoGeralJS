@@ -1,9 +1,10 @@
 let dia = 3
 let diaNome = ''
 
+
 switch( dia ){
     case 0:
-        diaNome = 'Domingo'
+        diaNome = 'Final de semana'
         break
 
     case 1: 
@@ -28,7 +29,7 @@ switch( dia ){
         break   
 
     case 6:
-        diaNome = 'Sábado'
+        diaNome = 'Final de semana'
         break
 
 }
